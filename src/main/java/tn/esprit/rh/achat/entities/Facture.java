@@ -1,5 +1,6 @@
 package tn.esprit.rh.achat.entities;
 // first comment
+//second comment
 import java.io.Serializable;
 import java.util.Date;
 import java.util.Set;
